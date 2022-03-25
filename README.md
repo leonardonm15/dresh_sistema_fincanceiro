@@ -12,7 +12,7 @@ tecnologias usadas: tkinter
  
  FUNCIONALIDADES E ABAS
  ![image](https://user-images.githubusercontent.com/76177303/160170589-6b19b196-99ce-4567-889f-a590202173c4.png)
-![image](https://user-images.githubusercontent.com/76177303/160170356-a162ab3e-bfba-4bab-b366-8f8b382be20a.png)
+![image](https://user-images.githubusercontent.com/76177303/160172741-925d9e89-954d-45e2-b518-2b35bb9551d4.png)
 ![image](https://user-images.githubusercontent.com/76177303/160170486-9aa2a8ca-eacd-4f76-bf45-b341a58a3407.png)
 
 DADOS GERADOS GENERICAMENTE PARA DEMOSTRAÇÃO POR ISSO A NAO RESPONSIVIDADE DA PLANILHA
